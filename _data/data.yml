@@ -47,10 +47,8 @@ career-profile:
      Numpy, Panda and Scikit learn.
      
      To start my career in Data Science field, I am looking for an opportunity 
-     in DATA & AI solutions, where I can contribute my technical skills in a 
-     professionally inspiring environment. For the last 3 years
-     I have self-studied Data Science from different online IT portals. My aim is 
-     to become a Data Scientist. I am results-oriented, self-motivated, quick learner 
+     in Data Science & Machine Learning, where I can contribute my technical skills in a 
+     professionally inspiring environment. I am results-oriented, self-motivated, quick learner 
      and I am ready to use my abilities to achieve your goals and add value to your business.
      
 education:
@@ -74,100 +72,45 @@ experiences:
       company: Integrify
       details: |
           - Learning advance level of Python programming by using Jupyter Notebook in Ubuntu Linux.
-          - Working on Regular Expression, Functional programming and classes in Python
-          - Collaborating the work with other colleages by using Github 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Working on Regular Expression, Functional programming and classes in Python.
+          - Collaborating the work with other colleages by using Github.
+          - Mainly work in Unix environment by using Ubuntu Linux.
+    - role: Pre-Sales IT Solutions
+      time: 2006 - 2009
+      company: ABM Info Tech, Islamabad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Proposed IT solutions according to needs of the Customers.
+          - Designed and do present IT solutions to the customers.
+          - Made costing, RFP, RFQ or BOQ of IT Solutions.
+          - Responsible for the installations of IT solutions and their support, etc.
+    - role: Internship IT Department
+      time: 2004 - 2004
+      company: Attock Refinery limited
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+          - Worked on MySQL and Oracle 8i
+          - IT Support (Window Server installation, Antivirus Installation)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Functional Programming
+        level: 70%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Regular Expression
         level: 60%
+
+      - name: HTML & CSS
+        level: 80%
+
+      - name: Power BI
+        level: 50%
+
+      - name: MS Office
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

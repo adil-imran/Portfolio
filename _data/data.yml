@@ -42,14 +42,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     I have recently done certification in Python and Data Science at SuperUsers 
-     in Hillerød. I learned Python programming and Data Science techniques such as
-     Numpy, Panda and Scikit learn.
-     
-     To start my career in Data Science field, I am looking for an opportunity 
-     in Data Science & Machine Learning, where I can contribute my technical skills in a 
-     professionally inspiring environment. I am results-oriented, self-motivated, quick learner 
-     and I am ready to use my abilities to achieve your goals and add value to your business.
+     I am an aspiring Data Science and Machine Learning Engineer. My aim is 
+     to work closely with the concern matters to identify issues, collect & use 
+     the data to build algorithms, design experiment to propose solutions for 
+     the effective decision makings and creating reports which effectively 
+     display the trends and insights true expressions.
      
 education:
     - degree: Master in Business Process & Supply Chain Management
@@ -71,16 +68,18 @@ experiences:
       time: 2021 - Present
       company: Integrify
       details: |
-          - Learning advance level of Python programming by using Jupyter Notebook in Ubuntu Linux.
-          - Working on Regular Expression, Functional programming and classes in Python.
-          - Collaborating the work with other colleages by using Github.
+          - learned best practices & implementation guidelines for quality products development & data models.
+          - Worked with APIs and implementation web scraping by using BeautifulSoup to scrap data and build Dataframes in tabular form.
+          - Time series analysis, exploratory data analysis, quantitative analysis and sentimental analysis has done by using Pandas, Numpy and other Python libraries.   
+          - Data visualization for the high dimensionality data by using Matplotlib, seaborn and plotly for the interactive plotting. 
+          - Using GitHub for the distributed version control and collaborating the teamwork with other colleagues.
           - Mainly work in Unix environment by using Ubuntu Linux.
     - role: Pre-Sales IT Solutions
       time: 2006 - 2009
       company: ABM Info Tech, Islamabad
       details: |
           - Proposed IT solutions according to needs of the Customers.
-          - Designed and do present IT solutions to the customers.
+          - Designed and present IT solutions to the customers.
           - Made costing, RFP, RFQ or BOQ of IT Solutions.
           - Responsible for the installations of IT solutions and their support, etc.
     - role: Internship IT Department
@@ -97,11 +96,11 @@ skills:
       - name: Python 
         level: 90%
 
-      - name: Functional Programming
-        level: 70%
+      - name: Pandas
+        level: 85%
 
-      - name: Regular Expression
-        level: 60%
+      - name: Numpy
+        level: 95%
 
       - name: HTML & CSS
         level: 80%
@@ -109,8 +108,8 @@ skills:
       - name: Power BI
         level: 50%
 
-      - name: MS Office
-        level: 95%
+      - name: Matplotlib
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
